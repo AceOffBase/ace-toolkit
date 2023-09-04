@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aceofbase/ace-toolkit.git"
+    "url": "git+https://github.com/aceoffbase/ace-toolkit.git"
   },
   "license": "MIT",
   "scripts": {
